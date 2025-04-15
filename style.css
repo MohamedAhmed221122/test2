@@ -1,0 +1,47 @@
+.chefs{
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+.chefs h4{
+    text-align: center;
+    color: darkgray;
+}
+.chefs h2{
+    text-align: center;
+}
+.span{
+    color: brown;
+}
+.container{
+    width: 90%;
+    margin-inline: auto;
+}
+.items h1{
+    text-align: center;
+}
+.items h5{
+    color: darkgray;
+    text-align: center;
+}.items p{
+    color: darkgray;
+    text-align: center;
+}
+.items img{
+    width: 100%;
+    border-top-right-radius: 10px 10px;
+    border-top-left-radius: 10px 10px;
+}
+.items{
+    width: 32%;
+    float: left;
+    box-sizing: border-box;
+    padding-inline: 20px;
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 5px;
+    border-top-right-radius: 10px 10px;
+    border-top-left-radius: 10px 10px;
+}
+.clr{
+    clear: left;
+}
